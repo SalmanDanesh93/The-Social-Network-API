@@ -1,0 +1,20 @@
+{
+  "name": "the-social-network-api",
+  "version": "1.0.0",
+  "description": "The-Social-Network-API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "Salman Danesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
